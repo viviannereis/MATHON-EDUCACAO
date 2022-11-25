@@ -1,2 +1,2 @@
 # MATHON-EDUCACAO
-Aplicativo de Ensino de Matemática
+Site de educação exclusivo para Matemática
